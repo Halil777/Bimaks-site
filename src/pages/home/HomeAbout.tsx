@@ -9,6 +9,7 @@ const HomeAbout: FC = () => {
   const handleAboutClick = () => {
     navigate("/about");
   };
+  // [7757] - BIMAKS WEB SITE FRONT
 
   return (
     <div className="px-[5%] md:px-[10%] py-[5%] mt-16 mb-16">

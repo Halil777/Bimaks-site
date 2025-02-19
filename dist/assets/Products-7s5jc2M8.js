@@ -1,0 +1,1 @@
+import{j as r}from"./index-9G3LArNF.js";import{H as s}from"./HomeProducts-trhdfZbY.js";import{H as o}from"./HomeHero-fzAd0bYO.js";const a=()=>r.jsxs(r.Fragment,{children:[r.jsx(o,{}),r.jsx("div",{className:"mt-14 mb-24 pl-[10%] pr-[10%] ",children:r.jsx(s,{})})]});export{a as default};

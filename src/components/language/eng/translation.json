@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "technicalSolutions": "Technical Solutions",
+    "contactUs": "Contact Us"
+  },
+
+  "products": {
+    "firstTitle": "REVERSE OSMOSIS PRODUCT",
+    "secondTitle": "Boiler Water Treatment",
+    "thirdTitle": "Waste Water Treatment",
+    "fourthTitle": "Cleaning Products"
+  },
+
+  "home": {
+    "awtTitle": "Water Treatment Products Supplier",
+    "awtText1": "We are happy to announce to all our clients & followers we have joined The Association of Water Technologies (AWT) which is the international water treatment association representing over 500 companies that specialize in applying water treatments for industrial and commercial cooling and heating systems.",
+    "awtText2": "It’s a great opportunity to meet the experts in the water treatment chemicals field and share our knowledge with other colleagues too."
+  },
+
+  "about": {
+    "aboutText1": "Bimaks is a leading company in its field, founded in 2006. It provides reliable service to its clients by combining the production and sale of water treatment chemicals with industrial cleaning and maintenance. Bimaks, which continues its research and development in line with evolving technologies and always strives for open development thanks to its active staff, has quickly achieved success in the price and quality ratio of its products. It offers rational and practical solutions to meet the needs with a constantly growing product range. Bimaks has managed to make its name known in many foreign countries, proving the quality of its products. In the spirit of 'teamwork,' open to development and with a structure that values information exchange, every solution we produce for our clients is a source of success and pride for us.",
+    "aboutText3": "Our goal, as BİMAKS KİMYA, is to deliver the products and services our clients expect from us on time, at the most acceptable price. Meeting standards and regulatory requirements, as well as customer needs, is a priority at all levels of management. In all activities carried out in our company, 'continuous improvement activities' will be implemented, which is one of the requirements of the Integrated Management System. In this way, all our employees will find opportunities for self-improvement and increasing their quality awareness through practical training. We will use less and cleaner energy, guided by the idea of continuous improvement. In accordance with national and international legislation and our environmental responsibilities, we are committed to producing less waste, using systems that produce less waste, and reusing and recycling our waste where possible. The safety of our employees is always our top priority. Complying with all provisions of laws and regulations related to occupational health and industrial safety, controlling hazardous factors, and preventing injuries and illnesses among our employees are our main responsibilities. The common goal of all our employees is to ensure effective and safe work in an environmentally clean environment by using the 'BİMAKS brand - synonymous with quality.",
+    "ourMission": "Our Mission",
+    "ourMissionText": "Our goal is to become an innovative and environmentally friendly company serving world class services by exploring the changing needs of our customers and making solutions oriented.",
+    "ourVision": "Our Vision",
+    "ourVisionText": "Our vision is to expand our world market with our product quality as the leading company worldwide in line with our global, innovative solutions in the production and supply of chemical products.",
+
+    "safetyPolicy": "Quality, Environment and Occupational Health & Safety Policy"
+  },
+
+  "footer": {
+    "contact": "Contact",
+    "phone": "Phone",
+    "email": "Email",
+    "fax": "Fax",
+    "location": "Location",
+    "address": "10 yil Abadanchiliq Highway, 137, Ashgabat",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "poweredBy": "Powered By GeekSpace"
+  }
+}

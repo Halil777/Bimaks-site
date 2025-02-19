@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "home": "Baş sahypa",
+    "about": "Biz barada",
+    "products": "Önümlerimiz"
+  },
+  "footer": {
+    "contact": "Contact",
+    "phone": "Phone",
+    "email": "Email",
+    "fax": "Fax",
+    "location": "Location",
+    "address": "10 yil Abadanchiliq Highway, 137, Ashgabat",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "poweredBy": "Powered By GeekSpace"
+  }
+}
